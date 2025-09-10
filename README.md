@@ -19,7 +19,19 @@ and extracts action items — all locally on CPU using free, open-source models.
 
 Screenshots
 
-(See repo /assets folder for UI screenshots.)
+![Settings Panel](./assets/settings.png)  
+*Choose transcription model, summary style, and options*
+
+---
+
+![Upload & Processing](./assets/upload.png)  
+*Upload audio, generate minutes, and track progress*
+
+---
+
+![Results](./assets/results.png)  
+*Transcript, summarized minutes, and extracted action items*
+
 
 ------------------------------------------------------------
 

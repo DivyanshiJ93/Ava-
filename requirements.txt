@@ -1,0 +1,10 @@
+streamlit==1.24.0
+torch==2.2.0
+transformers==4.40.0
+openai-whisper==20250625
+pydub==0.25.1
+ffmpeg-python==0.2.0
+python-dotenv==1.0.0
+numpy==1.26.0
+typing-extensions==4.8.0
+
